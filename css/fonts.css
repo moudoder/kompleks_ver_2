@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Evolventa';
+  src: url("../fonts/Evolventa-Regular.woff2") format("woff2"), url("../fonts/Evolventa-Regular.woff") format("woff"), url("../fonts/Evolventa-Regular.svg#Evolventa-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Evolventa';
+  src: url("../fonts/Evolventa-Bold.woff2") format("woff2"), url("../fonts/Evolventa-Bold.woff") format("woff"), url("../fonts/Evolventa-Bold.svg#Evolventa-Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZvbnRzLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDSSx3QkFBd0I7RUFDeEIsMExBRXlFO0VBQ3pFLG1CQUFtQjtFQUNuQixrQkFBa0I7RUFDbEIsa0JBQWtCLEVBQUE7O0FBR3RCO0VBQ0ksd0JBQXdCO0VBQ3hCLDhLQUVtRTtFQUNuRSxpQkFBaUI7RUFDakIsa0JBQWtCO0VBQ2xCLGtCQUFrQixFQUFBIiwiZmlsZSI6ImZvbnRzLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIkBmb250LWZhY2Uge1xyXG4gICAgZm9udC1mYW1pbHk6ICdFdm9sdmVudGEnO1xyXG4gICAgc3JjOiB1cmwoJy4uL2ZvbnRzL0V2b2x2ZW50YS1SZWd1bGFyLndvZmYyJykgZm9ybWF0KCd3b2ZmMicpLFxyXG4gICAgICAgIHVybCgnLi4vZm9udHMvRXZvbHZlbnRhLVJlZ3VsYXIud29mZicpIGZvcm1hdCgnd29mZicpLFxyXG4gICAgICAgIHVybCgnLi4vZm9udHMvRXZvbHZlbnRhLVJlZ3VsYXIuc3ZnI0V2b2x2ZW50YS1SZWd1bGFyJykgZm9ybWF0KCdzdmcnKTtcclxuICAgIGZvbnQtd2VpZ2h0OiBub3JtYWw7XHJcbiAgICBmb250LXN0eWxlOiBub3JtYWw7XHJcbiAgICBmb250LWRpc3BsYXk6IHN3YXA7XHJcbn1cclxuXHJcbkBmb250LWZhY2Uge1xyXG4gICAgZm9udC1mYW1pbHk6ICdFdm9sdmVudGEnO1xyXG4gICAgc3JjOiB1cmwoJy4uL2ZvbnRzL0V2b2x2ZW50YS1Cb2xkLndvZmYyJykgZm9ybWF0KCd3b2ZmMicpLFxyXG4gICAgICAgIHVybCgnLi4vZm9udHMvRXZvbHZlbnRhLUJvbGQud29mZicpIGZvcm1hdCgnd29mZicpLFxyXG4gICAgICAgIHVybCgnLi4vZm9udHMvRXZvbHZlbnRhLUJvbGQuc3ZnI0V2b2x2ZW50YS1Cb2xkJykgZm9ybWF0KCdzdmcnKTtcclxuICAgIGZvbnQtd2VpZ2h0OiBib2xkO1xyXG4gICAgZm9udC1zdHlsZTogbm9ybWFsO1xyXG4gICAgZm9udC1kaXNwbGF5OiBzd2FwO1xyXG59XHJcblxyXG4iXX0= */
